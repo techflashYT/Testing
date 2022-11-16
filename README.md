@@ -1,2 +1,2 @@
 # Testing
-A simple repo used for testing within my programs/
+A simple repo used for testing within my programs,
